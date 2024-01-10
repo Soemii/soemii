@@ -8,7 +8,7 @@ Coming soon
 
 *   🌍  I'm based in Hannover Germany
 *   ✉️  You can contact me at [soeren.michaelis11@gmail.com](mailto:soeren.michaelis11@gmail.com)
-*   🚀  I'm currently working on [Cubie World](http://github.com/Cubie-World) and [FoodGuru](https://github.com/Soemii/FoodGuru)
+*   🚀  I'm currently working on [Cubie World](http://github.com/Cubie-World)
 *   🧠  I'm learning Microservice Architecture
   
 <a href="https://www.x.com/DevSoemii" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/DevSoemii?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"/></a>
