@@ -7,7 +7,7 @@ Backend Engineer
 Coming soon
 
 *   🌍  I'm based in Hannover Germany
-*   🚀  I'm currently working on [Cubie World](http://github.com/Cubie-World)
+*   🚀  I'm currently working on [Cookle](https://github.com/Cookle-app)
 *   🧠  I'm learning Microservice Architecture and DevOps
   
 <a href="https://www.x.com/DevSoemii" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/DevSoemii?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"/></a>
